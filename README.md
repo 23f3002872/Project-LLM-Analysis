@@ -1,12 +1,14 @@
 ---
-title: LLM Analysis Quiz Solver
+title: QuizAnalyzer
 emoji: 🏃
 colorFrom: red
 colorTo: blue
 sdk: docker
 pinned: false
-app_port: 7860
+app_port:7860
 ---
+
+
 
 # LLM Analysis - Autonomous Quiz Solver Agent
 
@@ -111,8 +113,8 @@ LLM-Analysis-TDS-Project-2/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/saivijayragav/LLM-Analysis-TDS-Project-2.git
-cd LLM-Analysis-TDS-Project-2
+git clone https://github.com/23f3002872/Project-LLM-Analysis.git
+cd Project-LLM-Analysis
 ```
 
 ### Step 2: Install Dependencies
@@ -383,9 +385,3 @@ The agent follows this loop:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-**Author**: Sai Vijay Ragav 
-**Course**: Tools in Data Science (TDS)
-**Institution**: IIT Madras
-
-For questions or issues, please open an issue on the [GitHub repository](https://github.com/saivijayragav/LLM-Analysis-TDS-Project-2).
